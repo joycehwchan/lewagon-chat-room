@@ -1,6 +1,6 @@
 # Chatroom
 
-A simple chatroom that uses the wagon-chat API, created with Javascript.
+A simple chatroom that uses the [wagon-chat API](https://github.com/lewagon/wagon-chat-api), created with Javascript.
 
 ### What I learned
 * Make GET and POST requests to an API code using `fetch`
