@@ -1,12 +1,12 @@
 .organizations-sidebar {
-  background-color: #16425B;
+  background-color: #16425b;
   color: white;
   padding: 16px;
   text-align: center;
 }
 
 .organization {
-  opacity: .3;
+  opacity: 0.3;
   cursor: pointer;
   font-size: 18px;
 }
@@ -23,7 +23,7 @@
 }
 
 .conversations-sidebar {
-  background-color: #3A7CA5;
+  background-color: #3a7ca5;
   color: white;
   padding: 16px;
   width: 200px;
@@ -42,6 +42,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 8px;
 }
 
 .chat-section-header h3 {
